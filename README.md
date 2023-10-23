@@ -1,1 +1,1 @@
-# twrp_realme_RMX3191
+## TWRP device tree for  Realme C25 ( RMX3191 )
